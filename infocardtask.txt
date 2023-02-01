@@ -1,0 +1,15 @@
+1. main componet 
+2. info componet
+3. skill componet 
+4. footer component
+
+image
+buttons
+info
+<header></header>
+<main>
+ <div><img></div>
+ <div>Personal info</div>
+</main>
+<div>skill</div>
+<footer></footer>
